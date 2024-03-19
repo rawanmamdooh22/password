@@ -1,0 +1,48 @@
+.form{
+   
+    margin: 0 auto;
+    margin-top: 160px;
+    width: 30%!important;
+    height: 270px !important;  
+    border: none;
+    border-radius: 15px;
+    border-style: solid;
+    background-color: wheat;
+}
+.pass{
+    padding: 10px;
+     padding-top: 15px; 
+    width: 80%;
+    margin-left: 40px;
+}
+.form-control:focus{
+    border: 1px solid black !important;
+    box-shadow: none !important;
+}
+.button{
+    border: none;
+    background: none;
+    font-weight: bold;
+    color: black;
+}
+.btn{
+    text-align: center !important;
+    margin-left:165px !important;
+    margin-top: 38px !important;
+    border: none !important;
+    width: 110px;
+    height: 40px;
+    font-size: 18px !important;
+    border-radius: 10px;
+    border: none !important;
+    background-color: white !important;
+    border: 1px solid black !important;
+}
+.par{
+    margin-top: -80px;
+    margin-left: 160px;
+}
+.par1{
+    margin-top: -90px;
+    margin-left: 200px;
+}
